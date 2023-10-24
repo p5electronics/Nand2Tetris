@@ -7,8 +7,8 @@ A simple VHDL implementation of the Hack Computer architecture from in Noam Nisa
 This small summer project was born from my inspiration after taking the Nand2Tetris course during my university's computer organization class. While the course introduced me to pseudo-HDL, I aspired to take things a step further by implementing the modules of the Hack architecture on actual hardware. I want to extend my appreciation to [Michael Schröder's Nand2Tetris FPGA project](https://gitlab.com/x653/nand2tetris-fpga "nand2tetris-fpga") and the [Nand2Tetris course](https://www.nand2tetris.org/ "Nand2Tetris") itself for providing references that guided me through this endeavor :)
 
 ## Content + Features
-* `src` - contains HDL files for all Nand2Tetris building blocks
-* `sim` - contains testbench modules (can turn your logic into .cmp files for verification!)
+* `src` - Contains HDL files for all Nand2Tetris building blocks
+* `sim` - Contains testbench modules (can turn your logic into .cmp files for verification!)
 
 ![Verifiable .cmp files!](https://github.com/takizala/VHDLNand2Tetris/blob/main/images/Cmp.png?raw=true)
 

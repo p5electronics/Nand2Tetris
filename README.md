@@ -1,5 +1,5 @@
 # VHDL Nand2Tetris
-![Doesn't this logo look overkill?](https://github.com/takizala/VHDLNand2Tetris/blob/main/logo.png?raw=true)
+![Doesn't this logo look overkill?](https://github.com/takizala/VHDLNand2Tetris/blob/main/images/logo.png?raw=true)
 
 A simple VHDL implementation of the Hack Computer architecture from in Noam Nisan's and Shimon Schocken's Nand2teris course.
 
@@ -10,7 +10,7 @@ This small summer project was born from my inspiration after taking the Nand2Tet
 * `src` - contains HDL files for all Nand2Tetris building blocks
 * `sim` - contains testbench modules (can turn your logic into .cmp files for verification!)
 
-![Verifiable .cmp files!](https://github.com/takizala/VHDLNand2Tetris/blob/main/Cmp.png?raw=true)
+![Verifiable .cmp files!](https://github.com/takizala/VHDLNand2Tetris/blob/main/images/Cmp.png?raw=true)
 
 ## Future Goals 
 Ultimately, my goal is to upload this design onto a Basys-3 FPGA development board and witness it in action on physical hardware. I have tailored this project to operate at a clock speed of 100MHz. Here's the current roadmap to get there:
